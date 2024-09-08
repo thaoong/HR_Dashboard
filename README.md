@@ -1,12 +1,15 @@
 # Human Resources Dashboard
-This dashboard is a part of final-term project of Business Intelligence and Decision Support System Course in University of Economics and Law, VNU-HCM.
+This dashboard is a part of final project of Business Intelligence and Decision Support System Course in University of Economics and Law, VNU-HCM.
 
 **Project title:** Business intelligence solution for Human resources department.
 
 **[Data source](https://github.com/thaoong/HR_Dashboard/tree/main/DataSource):** We used the dataset of a fictitious software company called Atlas Labs and built a data warehouse applying SSIS to perform Extract, Transform, Load (ETL).
 After conducting ETL, data warehouse is store in MS SQL Server and we used Power BI to load data from this to create dashboard.
 
-**The dashboard inculdes 4 layouts:** 
+**Data warehouse schema**:
+![image](https://github.com/user-attachments/assets/f2114a9a-115d-4a6e-b721-6a76d5615266)
+
+**The dashboard includes 4 layouts:** 
 * Overview of employees
 * Employee attrition
 * Employee overall performance
